@@ -1,4 +1,4 @@
-# This repository has been cloned to [a new location!](https://github.com/PTMagicians/PT-Magic)
+# This project has moved to [a new location!](https://github.com/PTMagicians/PT-Magic)
 ---
 
 ![moved](https://i.imgur.com/Gvc8rcr.jpg)
